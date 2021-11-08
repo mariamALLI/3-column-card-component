@@ -14,8 +14,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This challenge is designed to help inprove yuor skills as a 
  newbie in becoming a frontend developer
@@ -34,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mariamALLI/3-column-card-component.git)
 - Live Site URL: [Add live site URL here](https://3column-card-componet.netlify.app/)
 
 ## My process
