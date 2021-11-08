@@ -64,7 +64,7 @@ In the media query section
 ```
 
 ### Continued development
-Will continue my development and perfect my skill on CSS GRID
+Will continue my development and perfect my skill on CSS GRID.
 
 ## Author
 
