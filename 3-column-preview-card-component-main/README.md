@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I learned
 
-Some of my major learnings while working through this project includes the use of connectors. 
+Some of my major learnings while working through this project includes the use of connectors also the use of em unit for the font-size. 
 
 ```css
 In the media query section 
